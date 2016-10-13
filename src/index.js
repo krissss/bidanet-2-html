@@ -21,7 +21,7 @@ const router = new VueRouter({
   ]
 })
 
-import store from './store/index'
+import store from './vuex/store'
 
 /* eslint-disable no-new */
 new Vue({
